@@ -1,0 +1,8 @@
+pageFactoryLogin\LogInInfo.class
+PageFactorySearch\SearchObjects.class
+pageFactoryLogin\SearchItems.class
+dataToSearch\ItemsToBeSearched.class
+pageFactoryLogin\SearchObjects.class
+PageFactorySearch\DropDownMenuPage.class
+core\CommonMethods.class
+PageFactorySearch\SearchIteams.class

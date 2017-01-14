@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BedBathaBeyond App running on firefox Browser">
+
+    <parameter name="accessKey" value= "806b9c37-3173-41da-adf3-114ccd386fe4"/>
+    <parameter name="os" value="windows"/>
+    <parameter name="browserName" value="firefox"/>
+    <parameter name="browserVersion" value="47"/>
+    <!--47.0.1-->
+    <!--2.02-->
+    <parameter name="url" value="http://www.bedbathandbeyond.com"/>
+
+    <test name ="BedBathaBeyond Home Page">
+        <classes>
+            <class name= "productsMenu.InProducts"/>
+            <class name= "productsMenu.InProductsTxt"/>
+            <class name= "productsMenu.allProducts"/>
+            <class name= "dropDown.DropDown"/>
+        </classes>
+    </test>
+</suite>

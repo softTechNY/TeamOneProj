@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jdk1">
+    <CLASSES>
+      <root url="jar://C:/Program Files/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files/Java/jdk1.8" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/Java/jdk1.8" recursive="false" type="SOURCES" />
+  </library>
+</component>
